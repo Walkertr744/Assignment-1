@@ -1,0 +1,45 @@
+h1 {
+    font-weight: 600;
+    font-family: Georgia, Garamond, serif;
+    font-size: 22px;
+    text-decoration: underline;
+    color: #A4A400;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: Georgia, Garamond, serif;
+    font-size: 22px;
+    text-decoration: underline;
+    color: #A4A400;
+}
+
+body {
+    background-color: white;
+}
+
+p {
+    background-color: white;
+    color: #404040;
+    font-size: 11pt;
+    font-family: Georgia, Garamond, serif;
+}
+
+a,
+li {
+    color: #404040;
+}
+
+#testimonial {
+    text-indent: 25px;
+    background-color: #FFFFA8;
+    font-style: italic;
+}
+
+ul.tips {
+    list-style-type: "★ ";
+
+}
